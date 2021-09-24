@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YajwinGrover
+- 👋 Hi, I’m @Yajwin Grover
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
